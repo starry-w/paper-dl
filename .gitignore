@@ -1,0 +1,12 @@
+
+# MacOS
+**/.DS_STORE
+
+# Jupyter
+**/.ipynb_checkpoints
+
+# python
+**/__pycache__
+include/
+lib/
+bin/
